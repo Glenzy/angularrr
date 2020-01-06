@@ -1,0 +1,16 @@
+<div>
+  <mat-card color="secondary">
+    <mat-card-title class="title"> Click one quiz and go ahead</mat-card-title>
+  </mat-card>
+  <div *ngFor="let q of quiz">
+    <mat-card>
+        <mat-card-title>{{q.label}}</mat-card-title>
+        <mat-card-subtitle>{{q.description}}</mat-card-subtitle>
+        <mat-card-actions>
+          <button mat-button color="warn" class="btn btn-primary">
+            <a routerLink="/{{q.name}}" class="btn btn-primary">Click to start</a>
+          </button>
+        </mat-card-actions>
+    </mat-card>
+  </div>
+</div>

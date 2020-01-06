@@ -1,0 +1,65 @@
+[
+  {
+    "label": "What is Hello in french?",
+    "choices": [
+      {"value": "Au revoir", "correct": false},
+      {"value": "Bonjour", "correct": true},
+      {"value": "Tant pis", "correct": false},
+      {"value": "Salut!", "correct": false}
+    ]
+  },
+  {
+    "label": "What is Hello in chinese?",
+    "choices": [
+      {"value": "Au revoir", "correct": false},
+      {"value": "nihao", "correct": true},
+      {"value": "Tant pis", "correct": false},
+      {"value": "Salut!", "correct": false}
+    ]
+  },
+  {
+    "label": "What is Hello in spanish?",
+    "choices": [
+      {"value": "Au revoir", "correct": false},
+      {"value": "Hola", "correct": true},
+      {"value": "Tant pis", "correct": false},
+      {"value": "Salut!", "correct": false}
+    ]
+  },
+  {
+    "label": "What is Hello in Portuguese?",
+    "choices": [
+      {"value": "Au revoir", "correct": false},
+      {"value": "ola", "correct": true},
+      {"value": "Tant pis", "correct": false},
+      {"value": "Salut!", "correct": false}
+    ]
+  },
+  {
+    "label": "What is Hello in English?",
+    "choices": [
+      {"value": "Au revoir", "correct": false},
+      {"value": "Hello", "correct": true},
+      {"value": "Tant pis", "correct": false},
+      {"value": "Salut!", "correct": false}
+    ]
+  },
+  {
+    "label": "What is Hello in french?",
+    "choices": [
+      {"value": "Au revoir", "correct": false},
+      {"value": "Bonjour", "correct": true},
+      {"value": "Tant pis", "correct": false},
+      {"value": "Salut!", "correct": false}
+    ]
+  },
+  {
+    "label": "What is Goodbye in french?",
+    "choices": [
+      {"value": "Au revoir", "correct": true},
+      {"value": "Bonjour", "correct": false},
+      {"value": "Tant pis", "correct": false},
+      {"value": "Salut!", "correct": false}
+    ]
+  }
+]
